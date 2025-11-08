@@ -1,0 +1,10 @@
+fastapi
+pydantic
+sqlalchemy
+virtualenv
+passlib
+bcrypt==4.3.0
+pymongo[srv]==4.15.3
+python-jose
+python-multipart
+
